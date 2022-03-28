@@ -1,4 +1,4 @@
-package chap01;
+package Chap01;
 
 public class Hello02 {
 	//메소드 선언 (메소드 : 객체지향언어에서 함수(인풋값을 넣어서 프래그램에따라 결과를 출력)를 메소드라고 호칭한다. )

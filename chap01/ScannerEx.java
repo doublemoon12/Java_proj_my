@@ -1,4 +1,4 @@
-package chap01;
+package Chap01;
 import java.util.Scanner;
 public class ScannerEx {
 	public static void main(String[] args) {

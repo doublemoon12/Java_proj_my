@@ -1,4 +1,4 @@
-package chap01;
+package Chap01;
 public class Ex01_ConsolOut {
 	public static void main(String[] args) {
 		System.out.println("출력을 처리하고 엔터가 들어감" );

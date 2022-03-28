@@ -1,4 +1,4 @@
-package chap02;
+package Chap02;
 public class RangeOfVariableUse {
 	public static void main(String[] args) {
 		// 변수의 소멸 시기 - 전역 변수, 지역 변수 	

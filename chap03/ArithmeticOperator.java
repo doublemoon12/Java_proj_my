@@ -1,4 +1,4 @@
-package chap03;
+package Chap03;
 public class ArithmeticOperator {
 	public static void main(String[] args) {
 		// ++ 는 1씩 증가 , 

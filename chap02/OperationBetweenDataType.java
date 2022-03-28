@@ -1,4 +1,4 @@
-package chap02;
+package Chap02;
 public class OperationBetweenDataType {
 	public static void main(String[] args) {
 		//같은 자료형 간의 연산 

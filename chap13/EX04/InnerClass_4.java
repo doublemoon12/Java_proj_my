@@ -33,7 +33,7 @@ class A{
 			void bcd() {	 
 				System.out.println(a); 		//필드
 				System.out.println(b);		//지역변수	:값 수정 불가
-				a = 5;
+				a = 5;	//필드는 값수정이 가능 
 				//b = 7;	//지역클래스 내부에 선언된 지역변수는 자동으로 final키가 컴파일 된다.
 			}
 		}

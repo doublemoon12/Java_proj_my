@@ -1,4 +1,4 @@
-package chap01;
+package Chap01;
 public class Ex01_ConsolOut02 {
 	public static void main(String[] args) {
 		
