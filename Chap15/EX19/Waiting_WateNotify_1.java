@@ -9,7 +9,7 @@ package Chap15.EX19;
 	//- notify(), notifyAll()가 wait()를 깨워줌		<== 반드시 다른 스레드에서 깨워줄 수 있다.
 
 class DataBox{
-	int data;
+	int data;	//공유 필드
 	synchronized void inputData(int data) {		//동기화 메소드
 		this.data = data;
 		System.out.println("입력 데이터" + data);	//data : 매개변수 값으로 들어온 데이터
