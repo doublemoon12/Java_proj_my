@@ -6,7 +6,7 @@ package Chap16.EX03;
 		//A ~ Z 까지 임의로 넣을 수 있다.
 		//wrapper클래스가 올 수 있다. : 기본타입을 객체화 시켜 놓은 클래스이다.
 			//int (기본타입) ==> Integer(객체), boolean ==> Boolean, char ==> Charter, double ==> Double, float ==> Float
-
+			//byte ==> Byte, short ==> Short, long ==> Long, 
 //Generic class
 class MyClass<T>{
 	private T t;

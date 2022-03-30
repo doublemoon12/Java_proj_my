@@ -23,7 +23,6 @@ class Apple{
 	}
 }
 
-
 class Pencil{
 	String name;
 	int price;
