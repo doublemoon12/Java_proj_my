@@ -23,7 +23,7 @@ class Genericmethod{	//일반 클래스
 	
 }
 
-public class GernericMethod {
+public class Genericmethod1 {
 
 	public static void main(String[] args) {
 		//1. 일반 클래스 객체를 생성후 제너릭 메소드 호출
