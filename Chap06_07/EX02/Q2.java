@@ -28,7 +28,7 @@ public class Q2 {
 		System.out.println("정수 값을 공백을 넣어서 입력하세요. >>>"); 
 		
 		String num = sc.nextLine(); // 공백이 들어가므로 전체 정수 값을 String 
-		String[] array1 = num.split(" "); 	// splite 는 구분자를 기준으로 글자를 잘라서 배열에 저장 
+		String[] array1 = num.split(" "); 	// split 는 구분자를 기준으로 글자를 잘라서 배열에 저장 
 		
 		System.out.println();
 		System.out.println("당신이 입력한 정수는 : ");
