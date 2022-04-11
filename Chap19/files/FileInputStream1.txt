@@ -1,0 +1,4 @@
+FileInput Stream
+hello
+World
+가나다라
