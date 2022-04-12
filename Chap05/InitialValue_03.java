@@ -1,4 +1,4 @@
-package Chap05;
+package chap05;
 public class InitialValue_03 {
 	public static void main(String[] args) {
 		//1. 메모리의 초기값 

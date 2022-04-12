@@ -1,4 +1,4 @@
-package chap10.EX01;
+package chap10.ex01;
 
 class Dog_sub extends Dog{
 	int dog_sub;

@@ -1,4 +1,4 @@
-package Chap06_07.EX05;
+package Chap06_07.ex05;
 
 //같은 패키지 내에서 class A를 접근
 

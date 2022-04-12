@@ -1,4 +1,4 @@
-package chap10.EX03;
+package chap10.ex03;
 
 //InstanceOf : 객체내부의 캐스팅이 가능 여부를 알 수 있도록 하는 키워드 
 	//업캐스팅한 객체 내부에 어떤 타입이 존재하는지 True, False로 리턴

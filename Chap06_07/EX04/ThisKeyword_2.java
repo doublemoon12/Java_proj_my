@@ -1,4 +1,4 @@
-package Chap06_07.EX04;
+package Chap06_07.ex04;
 
 //명시적 this 키워드 추가 : 반드시 this key를 사용해야 되는 경우 : 
 

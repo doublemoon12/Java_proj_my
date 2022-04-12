@@ -1,4 +1,4 @@
-package Chap02;
+package chap02;
 
 public class PrimaryDataType_1 {
 

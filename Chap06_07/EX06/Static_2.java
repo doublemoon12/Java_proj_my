@@ -1,4 +1,4 @@
-package Chap06_07.EX06;
+package Chap06_07.ex06;
 
 //Static키가 붙은 모든 객체에서 공유해서 사용하는 메모리 영역
 

@@ -1,4 +1,4 @@
-package Chap06_07.EX05;
+package Chap06_07.ex05;
 
 	//접근제어자(캡슐화 : 데이터를 외부로부터 보호하는 역할을 함) : Public, protected, default, private
 		//클래스 이름 앞에 할당, 필드명, 메소드명, 생성자명 <== 접근제어자가 반드시 할당이 되어 있다.

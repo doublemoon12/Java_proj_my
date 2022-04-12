@@ -1,4 +1,4 @@
-package chap10.EX04;
+package chap10.ex04;
 
 class Human{
 	String name;

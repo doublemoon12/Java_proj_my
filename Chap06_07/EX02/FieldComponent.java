@@ -1,4 +1,4 @@
-package Chap06_07.EX02;
+package Chap06_07.ex02;
 
 class Abc {
 	int m = 3;		//필드 (Heap 에 저장 ) , 객체화 시켰을때 사용가능 

@@ -1,4 +1,4 @@
-package Chap06_07.EX06;
+package Chap06_07.ex06;
 
 class Cde{
 	String name;	//인스턴스 필드	:객체화 해야 사용가능

@@ -1,4 +1,4 @@
-package Chap05;
+package chap05;
 public class NonRectangleArray_Ex08 {
 	public static void main(String[] args) {
 		//1. 비정방형(NonRectangle) 선언과 값 대입 방법 1. 

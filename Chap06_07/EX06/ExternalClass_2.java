@@ -1,6 +1,6 @@
-package Chap06_07.EX06;
+package Chap06_07.ex06;
 
-import Chap06_07.EX05.Bb;	//다른 패키지의 클래스에서 클래스를 import 할때 public 접근 제한자가 부여되어 있어야 한다	
+import Chap06_07.ex05.Bb;	//다른 패키지의 클래스에서 클래스를 import 할때 public 접근 제한자가 부여되어 있어야 한다	
 
 // import Chap06_07.EX05.B;	//class B는 클래스 접근 제어자가 default임으로 다른 패키지에서 접근이 불가능 하다. 
 

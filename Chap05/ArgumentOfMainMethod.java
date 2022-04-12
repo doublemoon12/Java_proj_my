@@ -1,4 +1,4 @@
-package Chap05;
+package chap05;
 
 public class ArgumentOfMainMethod {
 	public static void main(String[] ar) {  // 메인 메소드[함수] 

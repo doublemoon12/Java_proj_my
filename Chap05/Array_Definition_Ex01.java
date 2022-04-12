@@ -1,4 +1,4 @@
-package Chap05;
+package chap05;
 public class Array_Definition_Ex01 {
 	public static void main(String[] args) {
 		/*

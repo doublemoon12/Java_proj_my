@@ -1,4 +1,4 @@
-package chap10.EX02;
+package chap10.ex02;
 
 //다형성(Polymorphsim) : 객체의 상속관계에서 여러 데이터 타입으로 변환 가능
 

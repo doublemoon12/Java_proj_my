@@ -1,4 +1,4 @@
-package Chap06_07.EX02;
+package Chap06_07.ex02;
 
 public class A {
 	//1. 리턴 타입이 없는 메소드 :  void 메소드명() { 실행코드 } 

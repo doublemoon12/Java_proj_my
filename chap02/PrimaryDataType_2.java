@@ -1,4 +1,4 @@
-package Chap02;
+package chap02;
 public class PrimaryDataType_2 {
 	public static void main(String[] args) {
 		//char 자료형에 값을 할당하는 방식 

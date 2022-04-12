@@ -1,4 +1,4 @@
-package Chap05;
+package chap05;
 
 public class RectangleArrayDefinition_Ex06 {
 	public static void main(String[] args) {

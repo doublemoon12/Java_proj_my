@@ -1,6 +1,6 @@
-package Chap06_07.EX06;
+package Chap06_07.ex06;
 
-import Chap06_07.EX05.C;
+import Chap06_07.ex05.C;
 
 public class Ex_C {
 

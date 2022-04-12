@@ -1,4 +1,4 @@
-package Chap06_07.EX04;
+package Chap06_07.ex04;
 
 // Aaa 클래스는 여러개의 생성자를 사용할 경우 this(); 없이 사용한 경우 : 중복된 값을 매번 입력 
 class Aaa {   

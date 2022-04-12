@@ -1,4 +1,4 @@
-package Chap05;
+package chap05;
 public class Ex03 {
 	public static void main(String[] args) {
 			// 정방형 배열

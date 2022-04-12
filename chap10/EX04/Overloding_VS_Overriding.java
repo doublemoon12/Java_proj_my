@@ -1,4 +1,4 @@
-package chap10.EX04;
+package chap10.ex04;
 
 //메소드 오버로딩과 메소드 오버 라이딩
 

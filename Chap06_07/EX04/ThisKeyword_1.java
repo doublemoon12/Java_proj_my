@@ -1,4 +1,4 @@
-package Chap06_07.EX04;
+package Chap06_07.ex04;
 
 /* 묵시적 this 키워드 자동 추가 */
 // 1. 클래스 내부에서 필드, 메소드앞에 자동으로 this 키워드가 붙음. 

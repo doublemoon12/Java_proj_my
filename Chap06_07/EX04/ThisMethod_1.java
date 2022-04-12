@@ -1,4 +1,4 @@
-package Chap06_07.EX04;
+package Chap06_07.ex04;
 
 /* 1. this 가  키워드로 사용되는 경우 : this.m ( 필드의 m) , this.init() ( 자신 객체의  메소드 init()) 
  * 

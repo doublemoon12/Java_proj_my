@@ -1,4 +1,4 @@
-package Chap06_07.EX02;
+package Chap06_07.ex02;
 
 //기본타입의 메소드 
 public class InternalCallMethod {

@@ -1,4 +1,4 @@
-package Chap06_07.EX02;
+package Chap06_07.ex02;
 
 class B{
 	 static String name = "BTS"; 	//static 키가 할당이 되면  객체 생성없이 호출 

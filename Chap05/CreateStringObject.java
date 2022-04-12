@@ -1,4 +1,4 @@
-package Chap05;
+package chap05;
 public class CreateStringObject {
 	public static void main(String[] args) {
 		//1. String 객체 생성 1 : new 키를 사용해서 객체 생성 : Heap 영역의 별도의 공간에 저장

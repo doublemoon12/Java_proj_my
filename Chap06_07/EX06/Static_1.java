@@ -1,4 +1,4 @@
-package Chap06_07.EX06;
+package Chap06_07.ex06;
 
 class Aaa{
 	int m = 3;			//필드(인스턴스 필드) : 객체를 생성후에 사용가능

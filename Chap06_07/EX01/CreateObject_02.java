@@ -1,4 +1,4 @@
-package Chap06_07.EX01;
+package Chap06_07.ex01;
 
 class Aaa {
 	String	name ;		//필드 : 객체화 시켜야 사용 가능, 클래스 블락에서 선언 

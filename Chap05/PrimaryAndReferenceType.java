@@ -1,4 +1,4 @@
-package Chap05;
+package chap05;
 public class PrimaryAndReferenceType {
 	public static void main(String[] args) {
 		//1. 기본 데이타 타입의 대입 연산 ( Stack 값을 복사 )

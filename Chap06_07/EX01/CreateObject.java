@@ -1,4 +1,4 @@
-package Chap06_07.EX01;
+package Chap06_07.ex01;
 
 class AA {
 	String name; 	//필드(멤버) : 인스턴스화 시켜야 사용이 가능 (Heap 공간에 값이저장)

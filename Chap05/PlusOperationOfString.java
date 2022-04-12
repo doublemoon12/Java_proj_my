@@ -1,4 +1,4 @@
-package Chap05;
+package chap05;
 public class PlusOperationOfString {
 	public static void main(String[] args) {
 		//1. 문자열 + 문자열 

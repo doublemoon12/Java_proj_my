@@ -1,4 +1,4 @@
-package Chap06_07.EX03;
+package Chap06_07.ex03;
 
 class Car {
 	String company;   // 필드(인스턴스필드)의 company를 알려주는 this , Heap 메모리에 저장 

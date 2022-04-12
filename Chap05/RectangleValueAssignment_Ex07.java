@@ -1,4 +1,4 @@
-package Chap05;
+package chap05;
 public class RectangleValueAssignment_Ex07 {
 	public static void main(String[] args) {
 		// 1. 배열 객체의 생성및 원소값 대입 (방법1), 배열의 초기값을 알 수 없는 경우 

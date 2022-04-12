@@ -1,4 +1,4 @@
-package Chap02;
+package chap02;
 public class NamingVariableAndConstant {
 	public static void main(String[] args) {
 		//º¯¼ö¸í 

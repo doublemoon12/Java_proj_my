@@ -1,4 +1,4 @@
-package Chap02;
+package chap02;
 public class UsageOfDataType {
 	public static void main(String[] args) {
 		//변수 선언 : 

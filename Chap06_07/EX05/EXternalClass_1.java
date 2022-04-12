@@ -1,4 +1,4 @@
-package Chap06_07.EX05;
+package Chap06_07.ex05;
 
 class B{	//외부 클래스 : public이 올수 없다.
 			//다른 패키지의 클래스 에서는 접근이 불가, 같은 패키지 내에서만 접근 가능

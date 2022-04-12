@@ -1,4 +1,4 @@
-package chap10.EX04;
+package chap10.ex04;
 
 //MethodOverriding
 	// 1. 반드시 상속관계에서만 메소드 오버라이디이 구현 된다.

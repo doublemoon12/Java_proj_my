@@ -1,4 +1,4 @@
-package chap10.EX04;
+package chap10.ex04;
 
 //메소드 오버라이딩
 

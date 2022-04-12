@@ -1,4 +1,4 @@
-package Chap02;
+package chap02;
 public class FloatVsDouble {
 	public static void main(String[] args) {
 		//float vs double 의 정밀도 : float 소숫점이하 7자리까지, double 소소점이하 15자리까지 정밀도 유지. 

@@ -1,4 +1,4 @@
-package Chap04;
+package chap04;
 public class Break_Ex04 {
 	public static void main(String[] args) {
 		//1. 단일 loop 가 적용된 곳에서 break 탈툴 

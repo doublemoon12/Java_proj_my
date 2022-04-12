@@ -1,4 +1,4 @@
-package Chap06_07.EX06;
+package Chap06_07.ex06;
 
 class Abc{		//외부 클래스 : public 제어자를 사용 못한다.(기본적으로 default) public제어자는 한개밖에 못쓴다
 				//class : public과 default

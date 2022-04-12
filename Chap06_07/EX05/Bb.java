@@ -1,4 +1,4 @@
-package Chap06_07.EX05;
+package Chap06_07.ex05;
 
 
 

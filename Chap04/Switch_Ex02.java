@@ -1,4 +1,4 @@
-package Chap04;
+package chap04;
 public class Switch_Ex02 {
 	public static void main(String[] args) {
 		

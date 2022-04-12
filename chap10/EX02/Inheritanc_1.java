@@ -1,4 +1,4 @@
-package chap10.EX02;
+package chap10.ex02;
 
 class Aa{
 	int m;

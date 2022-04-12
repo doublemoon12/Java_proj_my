@@ -1,4 +1,4 @@
-package Chap05;
+package chap05;
 public class ReadArrayData_2D_Ex09 {
 	public static void main(String[] args) {
 		//1. 2차원  데이터 배열의 길이 

@@ -1,4 +1,4 @@
-package Chap05;
+package chap05;
 public class ValueAssignment_Ex02 {
 	public static void main(String[] args) {
 		//1. 배열 변수의 방에 값 할당 하기  ( 3가지 )

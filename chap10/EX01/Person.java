@@ -1,4 +1,4 @@
-package chap10.EX01;
+package chap10.ex01;
 
 class Student_sub extends Student{
 	//Student_sub는 Student를 상속받고 있다. Student의 피드와 메소드를 상속 받는다.

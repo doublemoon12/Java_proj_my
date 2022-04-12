@@ -1,4 +1,4 @@
-package Chap05;
+package chap05;
 
 import java.util.Arrays;
 

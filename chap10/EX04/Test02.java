@@ -1,4 +1,4 @@
-package chap10.EX04;
+package chap10.ex04;
 
 class Animal3{	//부모 클래스, 모든 클래스는 Object 클래스를 상속한다.
 	String name;

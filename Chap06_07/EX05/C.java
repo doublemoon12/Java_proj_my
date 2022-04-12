@@ -1,4 +1,4 @@
-package Chap06_07.EX05;
+package Chap06_07.ex05;
 
 public class C {	//다른 패키지에서 import가능
 	
