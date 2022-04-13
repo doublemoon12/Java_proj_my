@@ -23,29 +23,33 @@ public class EX06_ConsoleInputOutputObject {
 		File inputFile = new File("src/Chap19/ex06/input.txt");
 		
 		InputStream is1 = System.in;
-		OutputStream os = System.out;
+		OutputStream os1 = System.out;
 		
-		OutputStream os1 = new FileOutputStream(inputFile);
+		InputStream is2 = new FileInputStream(inputFile);
+		OutputStream os2 = new FileOutputStream(inputFile);
 		
 		System.out.println("한글만 입력 하세요");
 		
 		byte[] arr1 = new byte[100];
 		int count1 = is1.read(arr1);
 		
-		is1.close();
 		
+		os2.write(arr1);
+		os2.flush();
+		os2.close();
+		
+		int count2;
+		
+		while((count2 = is2.read(arr1)) != -1) {
+			System.out.println("저장된 파일 불러오기");
+			System.out.println(new String(arr1, Charset.defaultCharset()));
+		}
+		
+		String str = new String(arr1, Charset.defaultCharset());
+		str.getBytes(Charset.defaultCharset());
 		os1.write(arr1);
-		os1.write('\n');
-		
-		byte[] arr2 = "어렵습니다".getBytes(Charset.defaultCharset());
-		
-		os.write(arr2);
-		os.write('\n');
-		
 		os1.flush();
 		os1.close();
-		
-		
 		
 	}
 
